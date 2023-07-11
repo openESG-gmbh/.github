@@ -5,7 +5,7 @@
 Eine starke Partnerschaft
 
 ### 3-FACHE KOMPETENZ
-Im Mittel­punkt des Joint Venture steht die openESG-Plattform: Eine starke Partner­schaft von [fino](https://fino.group/), [fisa](https://fisa.one/de/) und [ppa](https://ppaworld.com/). Durch diese Partner­schaft sind wir in der Lage, eine vollaus­gereifte ESG-Plattform für Finanz­dienstleister zu ent­wickeln. Über die openESG-Platt­form unterstützen wir Finanz­institute dabei, Ihren Verpflichtungen zum ESG-Reporting aufwandsminimal nachzukommen. Vom Datenabruf bei ihren Kreditnehmern bis hin zur Bereitstellung der revisionssicheren Ergebnisse per Schnittstelle in das Banksystem: Wir übernehmen alle Prozess-Schritte und achten auf die Abdeckung der regulatorischen Anforderungen – rechts­konform, einfach & digital! 
+Im Mittel­punkt des Joint Venture steht die [openESG](https://openesg.de/)-Plattform: Eine starke Partner­schaft von [fino](https://fino.group/), [fisa](https://fisa.one/de/) und [ppa](https://ppaworld.com/). Durch diese Partner­schaft sind wir in der Lage, eine vollaus­gereifte ESG-Plattform für Finanz­dienstleister zu ent­wickeln. Über die openESG-Platt­form unterstützen wir Finanz­institute dabei, Ihren Verpflichtungen zum ESG-Reporting aufwandsminimal nachzukommen. Vom Datenabruf bei ihren Kreditnehmern bis hin zur Bereitstellung der revisionssicheren Ergebnisse per Schnittstelle in das Banksystem: Wir übernehmen alle Prozess-Schritte und achten auf die Abdeckung der regulatorischen Anforderungen – rechts­konform, einfach & digital! 
 
 **Ein starkes Trio im ESG-Reporting**
 
