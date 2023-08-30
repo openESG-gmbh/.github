@@ -15,3 +15,4 @@ Im Mittel­punkt des Joint Venture steht die [openESG](https://openesg.de/)-Plat
 
 [ppa](https://ppaworld.com/) ist ein marktführender Dienstleister für die Digitalisierung (Datenerkennung, Datenextraktion und kundenspezifische Aufbereitung) von Informationen für die Finanzwirtschaft in der DACH-Region. 150 Mitarbeiter bearbeiten >300.000 Dokumente per anno in einem hybriden Prozess aus künstlicher Intelligenz und menschlicher Kompetenz. PPA erfüllt alle regulatorischen Anforderungen an die Auslagerung von Geschäftsprozessen durch Banken in Deutschland und in der Schweiz.
 
+![image](https://github.com/openESG-gmbh/.github/assets/20150243/10908958-da61-4461-84a8-02c43554ee53)
